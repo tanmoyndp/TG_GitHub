@@ -1,0 +1,13 @@
+If you have ever worked at a FAANG or even technology-driven start-up like Instacart, then you have probably realized that data drives everything.
+
+To the point that analysts, PMs, and product managers are starting to understand SQL out of necessity. SQL is the language of data and if you want to interact with data, you need to know it.
+
+Do you want to easily figure out the average amount of time a user spends on your product, but don’t want to wait for an analyst? You better figure out how to run a query.
+
+This ability to run queries easily is also driven by the fact that SQL editors no longer need to be installed. With cloud-based data, warehouses come SaaS SQL editors. We will talk about a SaaS SQL editor more in the next section.
+
+However, the importance here is you don’t have to wait 30 minutes to install and editor and deal with all the hassle of managing it.
+
+Now you can just go to a URL and access your team’s data warehouse. This has allowed anyone in the company easy access to their data.
+
+We know both from anecdotal experience as well as the fact that indeed.com’s tracking in 2019 has shown a steady requirement for SQL skill sets for the past 5 years.
